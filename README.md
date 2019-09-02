@@ -1,0 +1,1 @@
+This calendar building script is intended to organize timekeeping by creating a text file for every day within each month of a given range of years. Each text file contains relevant information about what happened or what will happen on that day.
