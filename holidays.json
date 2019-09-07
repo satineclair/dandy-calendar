@@ -1,0 +1,22 @@
+{
+	"holiday": {
+		"date": ["December 14"],
+		"per annum": 1,
+		"name": "Winter Solstice"
+	},
+	{
+		"date": ["June 14"],
+		"per annum": 1,
+		"name": "Summer Solstice"
+	},
+	{
+		"date": ["March 14"],
+		"per annum": 1,
+		"name": "Vernal Equinox"
+	},
+	{
+		"date": ["September 14"],
+		"per annum": 1,
+		"name": "Autumnal Equinox"
+	},
+}
